@@ -1,0 +1,64 @@
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 2:55:56 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 2:56:12 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 3:16:03 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 3:16:25 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 3:17:13 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 3:17:52 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 3:18:07 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:01:00 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:04:19 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:09:31 PM> : <USER := ronela> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:11:04 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:15:11 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:22:25 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:27:03 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 17/3/2014 4:43:19 PM> : <USER := admin> : <ADMIN := True>
+
+
+#log_start#
+<LOGDATE := 17/3/2014 4:43:44 PM> : <OBJECT := usrGrid> : <OPERATION := toolStripDeleteContact_Click> : <ERROR_TROW := ERROR: 42601: syntax error at end of input>
+#log_end#
+

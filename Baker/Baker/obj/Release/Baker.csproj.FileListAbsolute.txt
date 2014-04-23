@@ -1,0 +1,76 @@
+D:\SAV!!!!!!!\Baker\Baker\bin\Release\Baker.exe
+D:\SAV!!!!!!!\Baker\Baker\bin\Release\Baker.pdb
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.csprojResolveAssemblyReference.cache
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Cozonac.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Diverse.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Evidenta.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Magazin.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Meniu.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Paine.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Patiserie.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Properties.Resources.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.Sofer.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.csproj.GenerateResource.Cache
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.exe
+D:\SAV!!!!!!!\Baker\Baker\obj\Release\Baker.pdb
+C:\Users\Tolci\Dropbox\Baker\Baker\Baker\obj\Release\Baker.exe
+C:\Users\Tolci\Dropbox\Baker\Baker\Baker\obj\Release\Baker.pdb
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Baker.exe
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Baker.pdb
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Mono.Security.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Npgsql.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Npgsql.pdb
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Npgsql.xml
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\de\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\es\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\fi\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\fr\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\ja\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\zh-CN\Npgsql.resources.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.Properties.Resources.resources
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.csproj.GenerateResource.Cache
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.exe
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.pdb
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.csprojResolveAssemblyReference.cache
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\System.Windows.Forms.Ribbon35.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\bin\Release\Ribbon.dll
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.frmMenu.resources
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Release\Baker.UI.usrGrid.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.exe
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Baker.exe
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Baker.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Mono.Security.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Npgsql.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Npgsql.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\Npgsql.xml
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\de\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\es\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\fi\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\fr\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\ja\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\zh-CN\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.csprojResolveAssemblyReference.cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.frmMenu.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.Properties.Resources.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrGrid.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.csproj.GenerateResource.Cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrLogin.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrAddSofer.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrAddMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrAddProd.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.frmProduseDistribuite.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrAddRep.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrSearchRep.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\itextsharp.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Release\itextsharp.xml
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrAddPersCont.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.dlgChangeTVA.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.usrHome.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.dlgDelUser.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.dlgProducts.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.dlgRegUser.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.dlgAbout.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.UI.Module.DialogForms.dlgProdMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.UI.Module.Magazine.usrMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Release\Baker.UI.Module.Common.MenuBar.resources

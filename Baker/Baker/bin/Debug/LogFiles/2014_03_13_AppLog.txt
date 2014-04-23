@@ -1,0 +1,4 @@
+#log_start#<LOGDATE := 13/3/2014 1:20:45 PM> : <OBJECT := DbProcessing> : <OPERATION := OpenConnection> : <ERROR_TROW := Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.>#log_end#
+
+#log_start#<LOGDATE := 13/3/2014 3:04:03 PM> : <OBJECT := DbProcessing> : <OPERATION := OpenConnection> : <ERROR_TROW := Unable to write data to the transport connection: An existing connection was forcibly closed by the remote host.>#log_end#
+

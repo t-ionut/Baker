@@ -1,0 +1,150 @@
+D:\SAV!!!!!!!\Baker\Baker\bin\Debug\Baker.exe
+D:\SAV!!!!!!!\Baker\Baker\bin\Debug\Baker.pdb
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.exe
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.pdb
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.evidenta.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.meniu.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Cozonac.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Diverse.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Magazin.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Paine.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Patiserie.resources
+D:\SAV!!!!!!!\Baker\Baker\obj\Debug\Baker.Sofer.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.exe
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.pdb
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\bin\Debug\Baker.exe
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\bin\Debug\Baker.pdb
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Cozonac.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Diverse.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Evidenta.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Magazin.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Meniu.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Paine.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Patiserie.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.Sofer.resources
+C:\Users\ionut.tolci\Dropbox\Baker\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Debug\Baker.exe
+F:\C# Projects\baker_darius\Baker\Baker\Baker\obj\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.exe
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\bin\Debug\Baker.exe
+F:\C# Projects\Baker\Baker\bin\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\bin\Debug\Mono.Security.dll
+F:\C# Projects\Baker\Baker\bin\Debug\Npgsql.dll
+F:\C# Projects\Baker\Baker\bin\Debug\Ribbon.dll
+F:\C# Projects\Baker\Baker\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\C# Projects\Baker\Baker\bin\Debug\Npgsql.pdb
+F:\C# Projects\Baker\Baker\bin\Debug\Npgsql.xml
+F:\C# Projects\Baker\Baker\bin\Debug\de\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\bin\Debug\es\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\bin\Debug\fi\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\bin\Debug\fr\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\bin\Debug\ja\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.frmMenu.resources
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.UI.usrGrid.resources
+F:\C# Projects\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+F:\C# Projects\Baker_Project\Baker\Baker\obj\Debug\Baker.exe
+F:\C# Projects\Baker_Project\Baker\Baker\obj\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.exe
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Baker.exe
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Baker.pdb
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Mono.Security.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Npgsql.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Ribbon.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\System.Windows.Forms.Ribbon35.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Npgsql.pdb
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\Npgsql.xml
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\de\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\es\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\fi\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\fr\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\ja\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\bin\Debug\zh-CN\Npgsql.resources.dll
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.frmMenu.resources
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.UI.usrGrid.resources
+F:\C# Projects\Baker\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.exe
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Baker.exe
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Baker.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Mono.Security.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Npgsql.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Npgsql.pdb
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\Npgsql.xml
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\de\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\es\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\fi\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\fr\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\ja\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\zh-CN\Npgsql.resources.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmMenu.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrGrid.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddProd.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmProduseDistribuite.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddSofer.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrLogin.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddRep.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrSearchRep.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\itextsharp.dll
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\bin\Debug\itextsharp.xml
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddPersCont.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgChangeTVA.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgProducts.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgDelUser.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgRegUser.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrHome.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.UI.Module.Common.MenuBar.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgAbout.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewPersCont.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewProd.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewRep.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewSofer.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgProdMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmProdMag.resources
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\RdlCompile.cache
+C:\Users\Tolci\Desktop\Baker-master\Baker-master\Baker\Baker\obj\Debug\RdlCompile.compiled
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.exe
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.csprojResolveAssemblyReference.cache
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.UI.Module.Common.MenuBar.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgAbout.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgChangeTVA.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmProdMag.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrHome.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewMag.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewPersCont.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewProd.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewRep.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrViewSofer.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgDelUser.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgProducts.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrSearchRep.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddMag.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmMenu.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddPersCont.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddProd.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.frmProduseDistribuite.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddRep.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrAddSofer.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.Properties.Resources.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.dlgRegUser.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrGrid.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.usrLogin.resources
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\Baker.csproj.GenerateResource.Cache
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\RdlCompile.cache
+C:\Users\Tolci\SkyDrive\Baker-master\Baker-master\Baker\Baker\obj\Debug\RdlCompile.compiled

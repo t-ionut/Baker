@@ -1,0 +1,4 @@
+#log_start#<LOGDATE := 9/3/2014 1:14:21 AM> : <OBJECT := DbProcessing> : <OPERATION := OpenConnection> : <ERROR_TROW := FATAL: 28P01: password authentication failed for user "postgres">#log_end#
+
+#log_start#<LOGDATE := 9/3/2014 1:14:28 AM> : <OBJECT := DbProcessing> : <OPERATION := OpenConnection> : <ERROR_TROW := FATAL: 28P01: password authentication failed for user "postgres">#log_end#
+

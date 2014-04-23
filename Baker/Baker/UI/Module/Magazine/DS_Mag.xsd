@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_Mag" targetNamespace="http://tempuri.org/DS_Mag.xsd" xmlns:mstns="http://tempuri.org/DS_Mag.xsd" xmlns="http://tempuri.org/DS_Mag.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_Mag" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_Mag" msprop:Generator_UserDSName="DS_Mag">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="app_magazine" msprop:Generator_TableClassName="app_magazineDataTable" msprop:Generator_TableVarName="tableapp_magazine" msprop:Generator_RowChangedName="app_magazineRowChanged" msprop:Generator_TablePropName="app_magazine" msprop:Generator_RowDeletingName="app_magazineRowDeleting" msprop:Generator_RowChangingName="app_magazineRowChanging" msprop:Generator_RowEvHandlerName="app_magazineRowChangeEventHandler" msprop:Generator_RowDeletedName="app_magazineRowDeleted" msprop:Generator_RowClassName="app_magazineRow" msprop:Generator_UserTableName="app_magazine" msprop:Generator_RowEvArgName="app_magazineRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnid_mag" msprop:Generator_ColumnPropNameInRow="id_mag" msprop:Generator_ColumnPropNameInTable="id_magColumn" msprop:Generator_UserColumnName="id_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnnume_mag" msprop:Generator_ColumnPropNameInRow="nume_mag" msprop:Generator_ColumnPropNameInTable="nume_magColumn" msprop:Generator_UserColumnName="nume_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="cui_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columncui_mag" msprop:Generator_ColumnPropNameInRow="cui_mag" msprop:Generator_ColumnPropNameInTable="cui_magColumn" msprop:Generator_UserColumnName="cui_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="adr_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnadr_mag" msprop:Generator_ColumnPropNameInRow="adr_mag" msprop:Generator_ColumnPropNameInTable="adr_magColumn" msprop:Generator_UserColumnName="adr_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="tel_mag" msprop:Generator_ColumnVarNameInTable="columntel_mag" msprop:Generator_ColumnPropNameInRow="tel_mag" msprop:Generator_ColumnPropNameInTable="tel_magColumn" msprop:Generator_UserColumnName="tel_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="partener" msprop:Generator_ColumnVarNameInTable="columnpartener" msprop:Generator_ColumnPropNameInRow="partener" msprop:Generator_ColumnPropNameInTable="partenerColumn" msprop:Generator_UserColumnName="partener" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="app_magazine_datorii" msprop:Generator_TableClassName="app_magazine_datoriiDataTable" msprop:Generator_TableVarName="tableapp_magazine_datorii" msprop:Generator_RowChangedName="app_magazine_datoriiRowChanged" msprop:Generator_TablePropName="app_magazine_datorii" msprop:Generator_RowDeletingName="app_magazine_datoriiRowDeleting" msprop:Generator_RowChangingName="app_magazine_datoriiRowChanging" msprop:Generator_RowEvHandlerName="app_magazine_datoriiRowChangeEventHandler" msprop:Generator_RowDeletedName="app_magazine_datoriiRowDeleted" msprop:Generator_RowClassName="app_magazine_datoriiRow" msprop:Generator_UserTableName="app_magazine_datorii" msprop:Generator_RowEvArgName="app_magazine_datoriiRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_mag" msprop:Generator_ColumnVarNameInTable="columnid_mag" msprop:Generator_ColumnPropNameInRow="id_mag" msprop:Generator_ColumnPropNameInTable="id_magColumn" msprop:Generator_UserColumnName="id_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_mag" msdata:Caption="id_mag" msprop:Generator_ColumnVarNameInTable="columnnume_mag" msprop:Generator_ColumnPropNameInRow="nume_mag" msprop:Generator_ColumnPropNameInTable="nume_magColumn" msprop:Generator_UserColumnName="nume_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="sold_restant" msprop:Generator_ColumnVarNameInTable="columnsold_restant" msprop:Generator_ColumnPropNameInRow="sold_restant" msprop:Generator_ColumnPropNameInTable="sold_restantColumn" msprop:Generator_UserColumnName="sold_restant" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="app_prod_magazine_info" msprop:Generator_TableClassName="app_prod_magazine_infoDataTable" msprop:Generator_TableVarName="tableapp_prod_magazine_info" msprop:Generator_RowChangedName="app_prod_magazine_infoRowChanged" msprop:Generator_TablePropName="app_prod_magazine_info" msprop:Generator_RowDeletingName="app_prod_magazine_infoRowDeleting" msprop:Generator_RowChangingName="app_prod_magazine_infoRowChanging" msprop:Generator_RowEvHandlerName="app_prod_magazine_infoRowChangeEventHandler" msprop:Generator_RowDeletedName="app_prod_magazine_infoRowDeleted" msprop:Generator_RowClassName="app_prod_magazine_infoRow" msprop:Generator_UserTableName="app_prod_magazine_info" msprop:Generator_RowEvArgName="app_prod_magazine_infoRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnid_mag" msprop:Generator_ColumnPropNameInRow="id_mag" msprop:Generator_ColumnPropNameInTable="id_magColumn" msprop:Generator_UserColumnName="id_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_mag" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnnume_mag" msprop:Generator_ColumnPropNameInRow="nume_mag" msprop:Generator_ColumnPropNameInTable="nume_magColumn" msprop:Generator_UserColumnName="nume_mag" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_prod" msprop:Generator_ColumnVarNameInTable="columnnume_prod" msprop:Generator_ColumnPropNameInRow="nume_prod" msprop:Generator_ColumnPropNameInTable="nume_prodColumn" msprop:Generator_UserColumnName="nume_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_tip_prod" msdata:Caption="nume_prod" msprop:Generator_ColumnVarNameInTable="columnnume_tip_prod" msprop:Generator_ColumnPropNameInRow="nume_tip_prod" msprop:Generator_ColumnPropNameInTable="nume_tip_prodColumn" msprop:Generator_UserColumnName="nume_tip_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="gramaj_prod" msdata:Caption="nume_prod" msprop:Generator_ColumnVarNameInTable="columngramaj_prod" msprop:Generator_ColumnPropNameInRow="gramaj_prod" msprop:Generator_ColumnPropNameInTable="gramaj_prodColumn" msprop:Generator_UserColumnName="gramaj_prod" type="xs:int" minOccurs="0" />
+              <xs:element name="pret_prod_ctva" msdata:Caption="nume_prod" msprop:Generator_ColumnVarNameInTable="columnpret_prod_ctva" msprop:Generator_ColumnPropNameInRow="pret_prod_ctva" msprop:Generator_ColumnPropNameInTable="pret_prod_ctvaColumn" msprop:Generator_UserColumnName="pret_prod_ctva" type="xs:string" minOccurs="0" />
+              <xs:element name="comercializat" msprop:Generator_ColumnVarNameInTable="columncomercializat" msprop:Generator_ColumnPropNameInRow="comercializat" msprop:Generator_ColumnPropNameInTable="comercializatColumn" msprop:Generator_UserColumnName="comercializat" type="xs:boolean" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

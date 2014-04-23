@@ -1,0 +1,466 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{673903A2-4D03-4DDB-9F34-309468EC3061}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Baker</RootNamespace>
+    <AssemblyName>Baker</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>icoBreadNew.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="itextsharp">
+      <HintPath>..\packages\iTextSharp.5.5.0\lib\itextsharp.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Mono.Security">
+      <HintPath>..\packages\Npgsql.2.0.14.3\lib\net35\Mono.Security.dll</HintPath>
+    </Reference>
+    <Reference Include="Npgsql">
+      <HintPath>..\packages\Npgsql.2.0.14.3\lib\net35\Npgsql.dll</HintPath>
+    </Reference>
+    <Reference Include="Ribbon">
+      <HintPath>..\..\..\..\..\Software Kit\officeribbon controls\RibbonLib_v2.6\Ribbon.dll</HintPath>
+    </Reference>
+    <Reference Include="System">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>..\..\..\..\..\Software Kit\officeribbon controls\Binaries\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BusinessLogic\DbProcessing.cs" />
+    <Compile Include="BusinessLogic\PdfProcessing.cs" />
+    <Compile Include="Code\CommonMessages.cs" />
+    <Compile Include="Code\Globals.cs" />
+    <Compile Include="Code\Logger.cs" />
+    <Compile Include="Code\SaltedHash.cs" />
+    <Compile Include="Data\DS_Baker.cs">
+      <DependentUpon>DS_Baker.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Data\DS_Baker.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Baker.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Common\MenuBar.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Common\MenuBar.Designer.cs">
+      <DependentUpon>MenuBar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgAbout.Designer.cs">
+      <DependentUpon>dlgAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgChangeTVA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgChangeTVA.Designer.cs">
+      <DependentUpon>dlgChangeTVA.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\frmProdMag.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\frmProdMag.Designer.cs">
+      <DependentUpon>frmProdMag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgProducts.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\DialogForms\dlgProducts.Designer.cs">
+      <DependentUpon>dlgProducts.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Categorii\usrSearchRep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Categorii\usrSearchRep.Designer.cs">
+      <DependentUpon>usrSearchRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Home\usrHome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Home\usrHome.Designer.cs">
+      <DependentUpon>usrHome.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\DS_Mag.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Mag.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\usrViewMag.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\usrViewMag.Designer.cs">
+      <DependentUpon>usrViewMag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\usrAddMag.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Magazine\usrAddMag.Designer.cs">
+      <DependentUpon>usrAddMag.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\PersCont\usrAddPersCont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\PersCont\usrAddPersCont.Designer.cs">
+      <DependentUpon>usrAddPersCont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\PersCont\usrViewPersCont.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\PersCont\usrViewPersCont.Designer.cs">
+      <DependentUpon>usrViewPersCont.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Produse\DS_Prod.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Prod.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Produse\frmProdReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Produse\frmProdReport.Designer.cs">
+      <DependentUpon>frmProdReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Produse\usrAddProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Produse\usrAddProd.Designer.cs">
+      <DependentUpon>usrAddProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Produse\usrViewProd.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Produse\usrViewProd.Designer.cs">
+      <DependentUpon>usrViewProd.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\DS_Rep.cs">
+      <DependentUpon>DS_Rep.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\DS_Rep.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DS_Rep.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\frmProduseDistribuite.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\frmProduseDistribuite.Designer.cs">
+      <DependentUpon>frmProduseDistribuite.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\usrAddRep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\usrAddRep.Designer.cs">
+      <DependentUpon>usrAddRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\usrViewRep.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Rapoarte\usrViewRep.Designer.cs">
+      <DependentUpon>usrViewRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Soferi\usrAddSofer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Soferi\usrAddSofer.Designer.cs">
+      <DependentUpon>usrAddSofer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Meniu\frmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Meniu\frmMenu.Designer.cs">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UI\Module\Soferi\usrViewSofer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Soferi\usrViewSofer.Designer.cs">
+      <DependentUpon>usrViewSofer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\User\dlgDelUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\User\dlgDelUser.Designer.cs">
+      <DependentUpon>dlgDelUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\User\dlgRegUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UI\Module\User\dlgRegUser.Designer.cs">
+      <DependentUpon>dlgRegUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\Common\Grid.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\Common\Grid.Designer.cs">
+      <DependentUpon>Grid.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UI\Module\User\usrLogin.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UI\Module\User\usrLogin.Designer.cs">
+      <DependentUpon>usrLogin.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="UI\Module\Common\MenuBar.resx">
+      <DependentUpon>MenuBar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DialogForms\dlgAbout.resx">
+      <DependentUpon>dlgAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DialogForms\dlgChangeTVA.resx">
+      <DependentUpon>dlgChangeTVA.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Magazine\frmProdMag.resx">
+      <DependentUpon>frmProdMag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Home\usrHome.resx">
+      <DependentUpon>usrHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Magazine\usrViewMag.resx">
+      <DependentUpon>usrViewMag.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\PersCont\usrViewPersCont.resx">
+      <DependentUpon>usrViewPersCont.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Produse\frmProdReport.resx">
+      <DependentUpon>frmProdReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Produse\Report1.rdlc" />
+    <EmbeddedResource Include="UI\Module\Produse\usrViewProd.resx">
+      <DependentUpon>usrViewProd.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Rapoarte\usrViewRep.resx">
+      <DependentUpon>usrViewRep.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Soferi\usrViewSofer.resx">
+      <DependentUpon>usrViewSofer.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\User\dlgDelUser.resx">
+      <DependentUpon>dlgDelUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\DialogForms\dlgProducts.resx">
+      <DependentUpon>dlgProducts.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Categorii\usrSearchRep.resx">
+      <DependentUpon>usrSearchRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Magazine\usrAddMag.resx">
+      <DependentUpon>usrAddMag.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Meniu\frmMenu.resx">
+      <DependentUpon>frmMenu.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\PersCont\usrAddPersCont.resx">
+      <DependentUpon>usrAddPersCont.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Produse\usrAddProd.resx">
+      <DependentUpon>usrAddProd.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Rapoarte\frmProduseDistribuite.resx">
+      <DependentUpon>frmProduseDistribuite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Rapoarte\usrAddRep.resx">
+      <DependentUpon>usrAddRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Soferi\usrAddSofer.resx">
+      <DependentUpon>usrAddSofer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\User\dlgRegUser.resx">
+      <DependentUpon>dlgRegUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\Common\Grid.resx">
+      <DependentUpon>Grid.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UI\Module\User\usrLogin.resx">
+      <DependentUpon>usrLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Data\DS_Baker.xsc">
+      <DependentUpon>DS_Baker.xsd</DependentUpon>
+    </None>
+    <None Include="Data\DS_Baker.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Baker.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Data\DS_Baker.xss">
+      <DependentUpon>DS_Baker.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="UI\Module\Magazine\DS_Mag.xsc">
+      <DependentUpon>DS_Mag.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Module\Magazine\DS_Mag.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Mag.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UI\Module\Magazine\DS_Mag.xss">
+      <DependentUpon>DS_Mag.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Module\Produse\DS_Prod.xsc">
+      <DependentUpon>DS_Prod.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Module\Produse\DS_Prod.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Prod.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UI\Module\Produse\DS_Prod.xss">
+      <DependentUpon>DS_Prod.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Module\Rapoarte\DS_Rep.xsc">
+      <DependentUpon>DS_Rep.xsd</DependentUpon>
+    </None>
+    <None Include="UI\Module\Rapoarte\DS_Rep.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>DS_Rep.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="UI\Module\Rapoarte\DS_Rep.xss">
+      <DependentUpon>DS_Rep.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="icoBreadNew.ico" />
+    <Content Include="Resources\Icons\btnAddPng.ico" />
+    <Content Include="Resources\Icons\btnDeletePng.png" />
+    <Content Include="Resources\Icons\icoAddKey.png" />
+    <Content Include="Resources\Icons\icoAdminKey.png" />
+    <Content Include="Resources\Icons\icoAll.ico" />
+    <Content Include="Resources\Icons\icoBread.ico" />
+    <Content Include="Resources\Icons\icoBreadNew.png" />
+    <Content Include="Resources\Icons\icoBreads.ico" />
+    <Content Include="Resources\Icons\icoBreads2.png" />
+    <Content Include="Resources\Icons\icoBreadsButton.png" />
+    <Content Include="Resources\Icons\icoBreadsForm.ico" />
+    <Content Include="Resources\Icons\icoCalendar.png" />
+    <Content Include="Resources\Icons\icoCancel.ico" />
+    <Content Include="Resources\Icons\icoCar.png" />
+    <Content Include="Resources\Icons\icoCarAdd.png" />
+    <Content Include="Resources\Icons\icoCarDel.png" />
+    <None Include="Resources\Icons\icoClose.png" />
+    <None Include="Resources\Icons\icoCozonac.ico" />
+    <Content Include="Resources\Icons\icoCheck.png" />
+    <Content Include="Resources\Icons\icoDeleteKey.png" />
+    <Content Include="Resources\Icons\icoDonut.ico" />
+    <Content Include="Resources\Icons\icoErase.png" />
+    <None Include="Resources\Icons\icoEye.png" />
+    <None Include="Resources\Icons\icoEyeCheck.png" />
+    <None Include="Resources\Icons\icoEyeUncheck.png" />
+    <Content Include="Resources\Icons\icoFormKey.ico" />
+    <Content Include="Resources\Icons\icoInfo.ico" />
+    <Content Include="Resources\Icons\icoKey.png" />
+    <Content Include="Resources\Icons\icoMinimize.ico" />
+    <None Include="Resources\Icons\iconBreadNew.ico" />
+    <None Include="Resources\Icons\iconOrb.png" />
+    <Content Include="Resources\Icons\icoPdf.ico" />
+    <None Include="Resources\Icons\icoPdf.png" />
+    <Content Include="Resources\Icons\icoPdf2.ico" />
+    <Content Include="Resources\Icons\icoPdf3.ico" />
+    <Content Include="Resources\Icons\icoPhone.png" />
+    <Content Include="Resources\Icons\icoPhoneAdd.png" />
+    <Content Include="Resources\Icons\icoPhoneDelete.png" />
+    <Content Include="Resources\Icons\icoPrint.ico" />
+    <Content Include="Resources\Icons\icoProd.png" />
+    <Content Include="Resources\Icons\icoProdAdd.png" />
+    <Content Include="Resources\Icons\icoProdDel.png" />
+    <None Include="Resources\Icons\icoRep.png" />
+    <None Include="Resources\Icons\icoRepAdd.png" />
+    <None Include="Resources\Icons\icoRepDelete.png" />
+    <Content Include="Resources\Icons\icoProdMag.png" />
+    <Content Include="Resources\Icons\icoQuestion.png" />
+    <Content Include="Resources\Icons\icoRepSearch.png" />
+    <Content Include="Resources\Icons\icoShop.png" />
+    <Content Include="Resources\Icons\icoShopAdd.png" />
+    <None Include="Resources\Icons\icoShopDebt.png" />
+    <Content Include="Resources\Icons\icoShopDelete.png" />
+    <None Include="Resources\Icons\icoToast.ico" />
+    <None Include="Resources\Icons\icoToastPng.png" />
+    <Content Include="Resources\Icons\icoTva.ico" />
+    <Content Include="Resources\Icons\icoTva.png" />
+    <Content Include="Resources\Icons\icoUncheck.png" />
+    <Content Include="Resources\Images\bgBread.png" />
+    <Content Include="Resources\Images\bgWood.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

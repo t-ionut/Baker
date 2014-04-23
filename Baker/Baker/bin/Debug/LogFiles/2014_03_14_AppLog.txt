@@ -1,0 +1,260 @@
+#log_start#
+<LOGDATE := 14/3/2014 10:47:43 AM> : <OBJECT := usrAddRep> : <OPERATION := btnAddRep_Click> : <ERROR_TROW := Object reference not set to an instance of an object.>
+#log_end#
+
+#log_start#
+<LOGDATE := 14/3/2014 10:51:22 AM> : <OBJECT := usrAddRep> : <OPERATION := btnAddRep_Click> : <ERROR_TROW := Object reference not set to an instance of an object.>
+#log_end#
+
+--------------------#login_session#--------------------
+<LOGIN_TIMESTAMP := 14/3/2014 10:56:21 AM> : <USER := admin> 
+
+
+#log_start#
+<LOGDATE := 14/3/2014 10:56:56 AM> : <OBJECT := usrAddRep> : <OPERATION := btnAddRep_Click> : <ERROR_TROW := Object reference not set to an instance of an object.>
+#log_end#
+
+--------------------#login_session#--------------------
+<LOGIN_TIMESTAMP := 14/3/2014 10:57:37 AM> : <USER := gogu> 
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:04:27 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:04:42 AM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:13:40 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:19:43 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:24:14 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:26:30 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:27:11 AM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:41:59 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:25 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:30 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:32 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:36 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:36 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:36 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:36 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:42:36 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:46:34 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:47:40 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:49:48 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:50:42 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:51:16 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:51:27 AM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:52:31 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:58:16 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:59:36 AM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:10:41 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:13:46 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:20:09 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:21:36 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:29:16 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:29:18 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:49:54 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:55:12 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 12:55:54 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:00:39 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:04:02 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:23:22 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:23:25 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:23:45 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:24:17 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:25:20 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:26:01 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:27:05 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:28:56 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:34:10 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:34:23 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 1:34:43 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 2:23:40 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 2:26:15 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 2:57:07 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:03:05 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:05:51 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:07:22 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:08:56 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:23:23 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:24:52 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:26:44 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 3:27:03 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:53:46 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 14/3/2014 11:55:56 PM> : <USER := admin> : <ADMIN := True>
+
+

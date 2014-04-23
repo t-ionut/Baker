@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DS_Prod" targetNamespace="http://tempuri.org/DS_Prod.xsd" xmlns:mstns="http://tempuri.org/DS_Prod.xsd" xmlns="http://tempuri.org/DS_Prod.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DS_Prod" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DS_Prod" msprop:Generator_UserDSName="DS_Prod">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="app_prod_info" msprop:Generator_TableClassName="app_prod_infoDataTable" msprop:Generator_TableVarName="tableapp_prod_info" msprop:Generator_TablePropName="app_prod_info" msprop:Generator_RowDeletingName="app_prod_infoRowDeleting" msprop:Generator_RowChangingName="app_prod_infoRowChanging" msprop:Generator_RowEvHandlerName="app_prod_infoRowChangeEventHandler" msprop:Generator_RowDeletedName="app_prod_infoRowDeleted" msprop:Generator_UserTableName="app_prod_info" msprop:Generator_RowChangedName="app_prod_infoRowChanged" msprop:Generator_RowEvArgName="app_prod_infoRowChangeEvent" msprop:Generator_RowClassName="app_prod_infoRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_prod" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnid_prod" msprop:Generator_ColumnPropNameInRow="id_prod" msprop:Generator_ColumnPropNameInTable="id_prodColumn" msprop:Generator_UserColumnName="id_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_prod" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columnnume_prod" msprop:Generator_ColumnPropNameInRow="nume_prod" msprop:Generator_ColumnPropNameInTable="nume_prodColumn" msprop:Generator_UserColumnName="nume_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="gramaj_prod" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columngramaj_prod" msprop:Generator_ColumnPropNameInRow="gramaj_prod" msprop:Generator_ColumnPropNameInTable="gramaj_prodColumn" msprop:Generator_UserColumnName="gramaj_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="tip_prod" msdata:Caption="DataColumn1" msprop:Generator_ColumnVarNameInTable="columntip_prod" msprop:Generator_ColumnPropNameInRow="tip_prod" msprop:Generator_ColumnPropNameInTable="tip_prodColumn" msprop:Generator_UserColumnName="tip_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="comercializat" msprop:Generator_ColumnVarNameInTable="columncomercializat" msprop:Generator_ColumnPropNameInRow="comercializat" msprop:Generator_ColumnPropNameInTable="comercializatColumn" msprop:Generator_UserColumnName="comercializat" type="xs:boolean" minOccurs="0" />
+              <xs:element name="pret_prod_ftva" msdata:Caption="comercializat" msprop:Generator_ColumnVarNameInTable="columnpret_prod_ftva" msprop:Generator_ColumnPropNameInRow="pret_prod_ftva" msprop:Generator_ColumnPropNameInTable="pret_prod_ftvaColumn" msprop:Generator_UserColumnName="pret_prod_ftva" type="xs:string" minOccurs="0" />
+              <xs:element name="tva_prod" msdata:Caption="comercializat" msprop:Generator_ColumnVarNameInTable="columntva_prod" msprop:Generator_ColumnPropNameInRow="tva_prod" msprop:Generator_ColumnPropNameInTable="tva_prodColumn" msprop:Generator_UserColumnName="tva_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="pret_prod_ctva" msprop:Generator_ColumnVarNameInTable="columnpret_prod_ctva" msprop:Generator_ColumnPropNameInRow="pret_prod_ctva" msprop:Generator_ColumnPropNameInTable="pret_prod_ctvaColumn" msprop:Generator_UserColumnName="pret_prod_ctva" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="app_tip_prod" msprop:Generator_TableClassName="app_tip_prodDataTable" msprop:Generator_TableVarName="tableapp_tip_prod" msprop:Generator_TablePropName="app_tip_prod" msprop:Generator_RowDeletingName="app_tip_prodRowDeleting" msprop:Generator_RowChangingName="app_tip_prodRowChanging" msprop:Generator_RowEvHandlerName="app_tip_prodRowChangeEventHandler" msprop:Generator_RowDeletedName="app_tip_prodRowDeleted" msprop:Generator_UserTableName="app_tip_prod" msprop:Generator_RowChangedName="app_tip_prodRowChanged" msprop:Generator_RowEvArgName="app_tip_prodRowChangeEvent" msprop:Generator_RowClassName="app_tip_prodRow">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="id_tip_prod" msprop:Generator_ColumnVarNameInTable="columnid_tip_prod" msprop:Generator_ColumnPropNameInRow="id_tip_prod" msprop:Generator_ColumnPropNameInTable="id_tip_prodColumn" msprop:Generator_UserColumnName="id_tip_prod" type="xs:string" minOccurs="0" />
+              <xs:element name="nume_tip_prod" msprop:Generator_ColumnVarNameInTable="columnnume_tip_prod" msprop:Generator_ColumnPropNameInRow="nume_tip_prod" msprop:Generator_ColumnPropNameInTable="nume_tip_prodColumn" msprop:Generator_UserColumnName="nume_tip_prod" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

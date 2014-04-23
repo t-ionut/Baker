@@ -1,0 +1,40 @@
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:03:03 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:04:05 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:04:24 PM> : <USER := admin> : <ADMIN := True>
+
+
+#log_start#
+<LOGDATE := 26/3/2014 2:04:50 PM> : <OBJECT := dlgRegUser> : <OPERATION := btnRegUser_Click> : <ERROR_TROW := ERROR: 23505: duplicate key value violates unique constraint "pk_id_user">
+#log_end#
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:08:03 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:26:47 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:29:06 PM> : <USER := nelu> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:29:17 PM> : <USER := gogu> : <ADMIN := False>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:29:25 PM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 26/3/2014 2:33:54 PM> : <USER := admin> : <ADMIN := True>
+
+

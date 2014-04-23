@@ -1,0 +1,8 @@
+--------------------#login_session#--------------------
+<LOGINDATE := 1/4/2014 9:09:12 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 1/4/2014 9:09:25 AM> : <USER := gogu> : <ADMIN := False>
+
+

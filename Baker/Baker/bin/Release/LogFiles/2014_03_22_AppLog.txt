@@ -1,0 +1,32 @@
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 10:25:15 AM> : <USER := admin> : <ADMIN := True>
+
+
+#log_start#
+<LOGDATE := 22/3/2014 10:25:56 AM> : <OBJECT := usrAddProd> : <OPERATION := btnAddProd_Click> : <ERROR_TROW := ERROR: 42703: column "pret_prod_ctva" of relation "app_prod" does not exist>
+#log_end#
+
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 10:27:00 AM> : <USER := admin> : <ADMIN := True>
+
+
+#log_start#
+<LOGDATE := 22/3/2014 10:27:22 AM> : <OBJECT := usrAddProd> : <OPERATION := btnAddProd_Click> : <ERROR_TROW := ERROR: 23505: duplicate key value violates unique constraint "pk_id_prod">
+#log_end#
+
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 10:33:47 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 10:53:40 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 10:57:40 AM> : <USER := admin> : <ADMIN := True>
+
+
+--------------------#login_session#--------------------
+<LOGINDATE := 22/3/2014 11:04:26 AM> : <USER := admin> : <ADMIN := True>
+
+
