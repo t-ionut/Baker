@@ -20,7 +20,7 @@ namespace Baker
         {
             InitializeComponent();
 
-            lblUsername.Text = firstname + " " + lastname;
+            lblUsername.Text = firstname + "  " + lastname;
             lblLogDateTime.Text = DateTime.Now.ToString("dd-MMM-yyyy  HH:mm");
         }
 
